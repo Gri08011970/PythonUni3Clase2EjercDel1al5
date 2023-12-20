@@ -11,7 +11,7 @@ def factorial(numero):
             resultado *= i
         return resultado
 
-# Ejemplo 
+ 
 numero = int(input("Ingresa un número entero positivo para calcular su factorial: "))
 resultado_factorial = factorial(numero)
 print(f"El factorial de {numero} es: {resultado_factorial}")

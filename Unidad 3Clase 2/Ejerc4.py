@@ -15,7 +15,7 @@ def numeros_primos_entre_rangos(inicio, fin):
             primos.append(numero)
     return primos
 
-# Ejemplo 
+
 inicio = int(input("Ingresa el inicio del rango: "))
 fin = int(input("Ingresa el fin del rango: "))
 

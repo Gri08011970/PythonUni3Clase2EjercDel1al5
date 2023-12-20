@@ -9,7 +9,7 @@ def es_primo(numero):
             return False
     return True
 
-# Ejemplo 
+
 numero = int(input("Ingresa un número entero para verificar si es primo: "))
 
 if es_primo(numero):
